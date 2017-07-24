@@ -1,0 +1,1 @@
+Inyects template code to grab data from the db and print it in the html
